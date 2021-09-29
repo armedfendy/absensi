@@ -1,0 +1,15 @@
+;  ---- Start Konfigurasi Update Section. ----
+[update_konfigurasi]
+status="N"
+;  ---- End Konfigurasi Update Section. ----
+
+;  ---- Start Info Modul Section. ----
+[info_modul]
+kode_modul="MODUL01"
+nama_modul="absensi"
+time_sync="300"
+sumber="absensi"
+tujuan=""
+apps="absensi.exe"
+apps_installer="absensi.7z"
+;  ---- End Info Modul Section. ----
